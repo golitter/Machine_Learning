@@ -12,3 +12,4 @@
 [2.7. 查阅文档 — 动手学深度学习 2.0.0 documentation (d2l.ai)](https://zh-v2.d2l.ai/chapter_preliminaries/lookup-api.html)
 
 [visdom-PyTorch 中文网 (pytorchtutorial.com)](https://www.pytorchtutorial.com/tag/visdom/)
+
